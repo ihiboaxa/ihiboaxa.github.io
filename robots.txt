@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihiboaxa.github.io/Ado/sitemap_index.txt
+Sitemap: https://ihiboaxa.github.io/mcy/sitemap_index.txt
+Sitemap: https://ihiboaxa.github.io/yZn/sitemap_index.txt
+Sitemap: https://ihiboaxa.github.io/ylT/sitemap_index.txt
